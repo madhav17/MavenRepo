@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<project xmlns='http://maven.apache.org/POM/4.0.0' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd'>
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>org.grails.plugins</groupId>
+  <artifactId>remote-pagination</artifactId>
+  <packaging>zip</packaging>
+  <version>0.4.8</version>
+  <name>Remote Pagination Plugin</name>
+  <description>
+   Remote-Pagination plugin provides tags for pagination and to sort columns without page refresh, using ajax and loads only the list of objects needed. It supports multiple paginations as well. More than one remotePaginate, remotePageScroll, remoteNonStopPageScroll and remoteSortableColumn can be used on the same page unlike non-ajax pagination tags.
+</description>
+  <url>https://github.com/amitjain1982/remote-pagination</url>
+  <developers>
+    <developer>
+      <name>Amit Jain</name>
+      <email>amitjain1982@gmail.com</email>
+    </developer>
+  </developers>
+  <dependencies />
+</project>
